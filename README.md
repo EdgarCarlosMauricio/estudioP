@@ -1,6 +1,6 @@
 # Tarea
 
-- Con VPN activo entrar al servidor 172.30.0.27 ojala con bitvise por facilidad
+- Con VPN activo entrar al servidor 172.30.0.37 ojala con bitvise por facilidad
 
 
 Entorno
