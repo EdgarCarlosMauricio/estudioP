@@ -30,3 +30,10 @@ y envia
 }
 ```
 - Podra ver en funcionamiento una query de graphql en su mas simple expresion
+- Si ve su contenido podra ver que se mporta un archivo llamado proxy, este archivo se encentra alojado en /usr/lib/python3/dist-packages
+
+- Ya que esto es solo un fragmento del archivo original con fines de enseñanza, debe tener en cuena que el archivo original lo puede encontrar en /var/www/html/proxy/bck/original
+
+
+- Como puede ver esta conectado a la base de datos, Puede usar el esquema pqrs_new_sch_v1 para pruebas.
+- La idea es que cree otras consultas y mutaciones.
