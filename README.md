@@ -22,10 +22,11 @@ Tarea:
 
 En este momento si entra con altair o postman o insomnia y envia una petcion POST  https://data.sis.co:334/proxy/proxy
 y envia 
+```
 {
   usuarios(tipoFilter: "string", dataFilter: "string") {
     total
   }
 }
-
+```
 - Podra ver en funcionamiento una query de graphql en su mas simple expresion
